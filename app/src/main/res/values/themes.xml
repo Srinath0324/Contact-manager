@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.ContactManager" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.Material3" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Customize your theme here -->
+    </style>
+
+</resources>
